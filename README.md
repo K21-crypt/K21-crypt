@@ -1,8 +1,6 @@
 <h1 align="center">Hello, I'm K21.</h1>
 <h3 align="center">I’m a passionate cybersecurity enthusiast and security researcher.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=k21-crypt" alt="k21-crypt" /></a> </p>
-
 - Blog: [https://karunstha.xyz](https://karunstha.xyz)
 
 - 📫 How to reach me? **root@karunstha.xyz**
